@@ -64,7 +64,7 @@ public class Calulator extends javax.swing.JFrame {
         oneButton.setEnabled(false);
         jButton16.setEnabled(false);
         equalButton.setEnabled(false);
-        jButton19.setEnabled(false);
+        jButton19.setEnabled(true);
     
     }
     @SuppressWarnings("unchecked")
